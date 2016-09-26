@@ -1,0 +1,13 @@
+= Hello World!
+
+== soy un h2
+
+=== soy un h3
+
+If you want your blog to be available on a custom domain, or you are already using your GitHub Pages domain to host another project, some extra configuration is required.
+	
+    Hola yo soy otro texto
+
+== Hola
+``` ruby
+int name = "Jorge";
