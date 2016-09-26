@@ -6,6 +6,7 @@
   },
   "site": {
     "title": "mozilla Honduras",
+    "description": "Blog oficial de la comunidad Mozilla Honduras",
     "postsPerPage": "4"
   },
   "socialnetwork": {},
