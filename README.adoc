@@ -2,7 +2,7 @@
 :toclevels: 4
 :sectnums:
 
-= HubPress
+= mozillahonduras.github.io
 
 toc::[]
 
