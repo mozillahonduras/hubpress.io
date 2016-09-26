@@ -9,7 +9,10 @@
     "description": "Blog oficial de la comunidad Mozilla Honduras",
     "postsPerPage": "4"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "facebook": "facebook.com/mozillahonduras",
+    "instagram": "instagram.com/mozillahonduras"
+  },
   "theme": {
     "name": "casper"
   }
