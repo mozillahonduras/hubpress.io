@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[mozilla Honduras]]></title><description><![CDATA[Blog oficial de la comunidad Mozilla Honduras]]></description><link>https://mozillahonduras.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 26 Sep 2016 17:43:42 GMT</lastBuildDate><atom:link href="https://mozillahonduras.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hello World!]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_soy_un_h2">soy un h2</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_soy_un_h3">soy un h3</h3>
+<div class="paragraph">
+<p>If you want your blog to be available on a custom domain, or you are already using your GitHub Pages domain to host another project, some extra configuration is required.</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>Hola yo soy otro texto</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_hola">Hola</h2>
+<div class="sectionbody">
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-ruby" data-lang="ruby">int name = "Jorge";</code></pre>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://mozillahonduras.github.io/2016/09/26/Hello-World.html</link><guid isPermaLink="true">https://mozillahonduras.github.io/2016/09/26/Hello-World.html</guid><pubDate>Mon, 26 Sep 2016 00:00:00 GMT</pubDate></item></channel></rss>
