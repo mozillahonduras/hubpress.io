@@ -5,7 +5,8 @@
     "branch": "master"
   },
   "site": {
-    "title": "mozilla Honduras"
+    "title": "mozilla Honduras",
+    "postsPerPage": "4"
   },
   "socialnetwork": {},
   "theme": {
