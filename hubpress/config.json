@@ -4,7 +4,11 @@
     "repositoryName": "mozillahonduras.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "mozilla Honduras"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "ghostium"
   }
 }
