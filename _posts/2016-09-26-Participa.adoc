@@ -1,0 +1,7 @@
+= Participa
+
+Si deseas ser parte de la Comunidad Mozilla Honduras y poder participar de nuestros evento y proyectos para que juntos podamos crear un una web abierta y libre, te pedimos que llenes el siguiente formulario con información verdadera de tu persona.
+
+++++
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSAJLDjQniybqHrfJjiEl5Gt8TfQi5OFVxXr3P5khU3K1Ocw/viewform?embedded=true" frameborder="0" width="760" height="2290" marginheight="0" marginwidth="0"></iframe>
+++++
