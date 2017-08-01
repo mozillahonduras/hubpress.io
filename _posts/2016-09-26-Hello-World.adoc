@@ -9,5 +9,5 @@ If you want your blog to be available on a custom domain, or you are already usi
     Hola yo soy otro texto
 
 == Hola
-``` ruby
-int name = "Jorge";
+``` javascript
+var name = "Jorge";
