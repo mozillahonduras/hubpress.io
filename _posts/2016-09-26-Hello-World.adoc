@@ -11,3 +11,8 @@ If you want your blog to be available on a custom domain, or you are already usi
 == Hola
 ``` javascript
 var name = "Jorge";
+if(name=="Jorge"){
+	console.log("Tu te llamas Jorge");
+}else{
+	console.log("Tu no eres Jorge :( ");
+}
